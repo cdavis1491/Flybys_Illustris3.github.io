@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Illustris-3 Flyby Database
 
 You can use the [editor on GitHub](https://github.com/cdavis1491/Flybys_Illustris3.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
